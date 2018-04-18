@@ -1,0 +1,4 @@
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Debug\netcoreapp1.1\Phonebook_MicroService.csprojResolveAssemblyReference.cache
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Debug\netcoreapp1.1\Phonebook_MicroService.csproj.CoreCompileInputs.cache
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Debug\netcoreapp1.1\Phonebook_MicroService.AssemblyInfoInputs.cache
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Debug\netcoreapp1.1\Phonebook_MicroService.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\bin\Release\netcoreapp2.0\Phonebook_MicroService.deps.json
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\bin\Release\netcoreapp2.0\Phonebook_MicroService.runtimeconfig.json
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\bin\Release\netcoreapp2.0\Phonebook_MicroService.runtimeconfig.dev.json
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\bin\Release\netcoreapp2.0\Phonebook_MicroService.dll
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\bin\Release\netcoreapp2.0\Phonebook_MicroService.pdb
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Release\netcoreapp2.0\Phonebook_MicroService.csproj.CoreCompileInputs.cache
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Release\netcoreapp2.0\Phonebook_MicroService.AssemblyInfoInputs.cache
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Release\netcoreapp2.0\Phonebook_MicroService.AssemblyInfo.cs
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Release\netcoreapp2.0\Phonebook_MicroService.dll
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Release\netcoreapp2.0\Phonebook_MicroService.pdb
+C:\Personal\work\InterviewAssesments\Absa Digital\Phonebook_MicroService\Phonebook_MicroService\obj\Release\netcoreapp2.0\Phonebook_MicroService.csprojResolveAssemblyReference.cache
